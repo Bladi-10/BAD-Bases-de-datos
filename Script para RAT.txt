@@ -1,0 +1,40 @@
+Sentencias para creacion de Tablas e insercion de registros , para ejercicios RAT:
+
+CREATE TABLE personas (
+id number primary key,
+nombre varchar2(30) not null,
+edad number not null,
+saldo number not null,
+membresia char(2) not null);
+INSERT INTO personas VALUES (0, 'Roberto', 19, 25, 'SI');
+INSERT INTO personas VALUES (1, 'Linda', 22, 23, 'NO');
+INSERT INTO personas VALUES (2, 'Sally', 15, 5, 'SI');
+INSERT INTO personas VALUES (3, 'Bill', 20, 99, 'NO');
+INSERT INTO personas VALUES (4, 'Joe', 43, 2, 'SI');
+
+CREATE TABLE variedades (
+id number primary key,
+tipo_pizza varchar2(30) not null,
+precio number not null);
+INSERT INTO variedades VALUES (0, 'Vegetariana', 2);
+INSERT INTO variedades VALUES (1, 'Pepperoni', 3);
+INSERT INTO variedades VALUES (2, 'Hawaiana', 3);
+INSERT INTO variedades VALUES (3, 'Carne', 4);
+INSERT INTO variedades VALUES (4, 'Jamón', 3);
+
+CREATE TABLE masas (
+id number primary key,
+tipo_masa varchar2(30) not null);
+INSERT INTO masas VALUES (0, 'Alta');
+INSERT INTO masas VALUES (1, 'Delgada');
+
+CREATE TABLE tamanos (
+id number primary key,
+tamano varchar2(30) not null,
+precio number not null);
+INSERT INTO tamanos VALUES (0, 'personal', 1);
+INSERT INTO tamanos VALUES (1, 'mediana', 2);
+INSERT INTO tamanos VALUES (2, 'grande', 4);
+INSERT INTO tamanos VALUES (3, 'Extra grande', 5);
+
+COMMIT;
