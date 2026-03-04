@@ -1,4 +1,4 @@
-Sentencias para creacion de Tablas e insercion de registros , para ejercicios RAT:
+Sentencias para creacion de Tablas e insercion de registros , para ejercicios RAT: 3 de marzo de 2026
 
 CREATE TABLE personas (
 id number primary key,
