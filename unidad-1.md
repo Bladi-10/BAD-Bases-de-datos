@@ -1,3 +1,6 @@
+---
+
+---
 # Unidad 1: Fundamentos de bases de datos
 **Periodo:** 23 de febrero al 13 de marzo
 
@@ -110,9 +113,10 @@ Puede consultar el documento detallado de la ruta de aprendizaje en el siguiente
 ---
 
 ## Recursos Complementarios
+
 | Documento | Enlace |
 | :--- | :--- |
-| Guía Práctica Álgebra Relacional | [Descargar PDF](https://campus.ues.edu.sv/pluginfile.php/5362122/mod_label/intro/Guia%20pr%C3%A1ctica%20Algebra%20relacional.pdf) |
+| Guía Práctica Álgebra Relacional | [Descargar PDF](https://campus.ues.edu.sv/pluginfile.php/5362122/mod_label/intro/Guia%20pr%C3%A1ctica%20Algebra%20relacional.pdf)|
 | Guía Práctica Modelo ER | [Descargar PDF](https://campus.ues.edu.sv/pluginfile.php/5362122/mod_label/intro/Guia%20practica%20Modelo%20ER.pdf) |
 | Pasos para instalar Oracle 21c XE | [Descargar PDF](https://campus.ues.edu.sv/pluginfile.php/5362122/mod_label/intro/Pasos%20para%20instalar%20ORACLE%2021C%20XE.pdf) |
 | Instalación de Máquina Virtual | [Descargar PDF](https://campus.ues.edu.sv/pluginfile.php/5362122/mod_label/intro/Instalaci%C3%B3n%20de%20m%C3%A1quina%20virtual.pdf?time=1772228343302) |
